@@ -2,9 +2,9 @@
 
 server:  https://universal-zigzag-crafter.glitch.me/
 <br>
-client-app : https://monumental-salmiakki-d15207.netlify.app/
+client-app : https://shop-app-client-rho.vercel.app/
 <br>
-admin-app:  https://chic-ganache-c4c1b9.netlify.app
+admin-app: https://sonxauxi-ticket-server.onrender.com
 
         user : test@test.com    
         password : 123456789
